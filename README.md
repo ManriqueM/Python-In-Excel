@@ -13,7 +13,7 @@ The [Python in Excel Helper GPT](https://chat.openai.com/g/g-dubFVnxZQ-python-in
     - Go to `Properties`.
     - Check the box to `Unblock`.
 
-    ![ImageB](Images/EnableMacros.png)
+    ![ImageB](Images/EnableMacros1.png)
 
     The file also works without the macro, but enabling it simplifies usage.
 
