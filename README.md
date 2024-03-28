@@ -6,7 +6,7 @@ The [Python in Excel Helper GPT](https://chat.openai.com/g/g-dubFVnxZQ-python-in
 
 1. **Download the Template.xlsm:** Included in this repository. To download, [click here](Template.xlsm).
 
-    ![ImageA](images/DownloadFile.png)
+    ![ImageA](Images/DownloadFile.png)
 
     **Note:** The template is a macro-enabled Excel workbook. Macros are typically blocked for web-downloaded files by default. To enable, after downloading:
     - Right-click on the file.
@@ -15,7 +15,7 @@ The [Python in Excel Helper GPT](https://chat.openai.com/g/g-dubFVnxZQ-python-in
 
     The file also functions without the macro, but enabling it simplifies usage. The VB script included is open for review.
 
-    ![ImageB](images/EnableMacros.png)
+    ![ImageB](Images/EnableMacros.png)
 
 2. **Using the Template:** The file contains 4 tabs:
    - **Instructions:** Details on using the file with the Python in Excel Helper GPT.
