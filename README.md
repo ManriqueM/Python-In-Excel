@@ -1,6 +1,6 @@
 # Python-In-Excel
 
-The [Python in Excel Helper GPT](https://chat.openai.com/g/g-dubFVnxZQ-python-in-excel-helper) bridges the use of ChatGPT code with Python in Excel. Python in Excel executes within Excel through the '=PY' function, opening a window to run Python code. Python runs on the Microsoft Cloud via the Anaconda distribution, with access to a subset of packages tailored for data analysis. For comprehensive details on Python in Excel, please visit this [link](https://support.microsoft.com/en-gb/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d).
+The [Python in Excel Helper GPT](https://chat.openai.com/g/g-dubFVnxZQ-python-in-excel-helper) bridges the use of ChatGPT code with Python in Excel. Python in Excel executes within Excel through the '=PY' function, opening a window to run Python code. Python runs on the Microsoft Cloud via the Anaconda distribution, with access to a subset of packages tailored for data analysis. For more details on Python in Excel, please visit this [link](https://support.microsoft.com/en-gb/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d).
 
 ### Prerequisites for Using This GPT
 
