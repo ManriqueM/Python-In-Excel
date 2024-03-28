@@ -13,9 +13,9 @@ The [Python in Excel Helper GPT](https://chat.openai.com/g/g-dubFVnxZQ-python-in
     - Go to `Properties`.
     - Check the box to `Unblock`.
 
-    The file also functions without the macro, but enabling it simplifies usage. The VB script included is open for review.
-
     ![ImageB](Images/EnableMacros.png)
+
+    The file also works without the macro, but enabling it simplifies usage.
 
 2. **Using the Template:** The file contains 4 tabs:
    - **Instructions:** Details on using the file with the Python in Excel Helper GPT.
